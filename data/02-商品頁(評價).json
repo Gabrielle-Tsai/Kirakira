@@ -12,24 +12,24 @@
 			{
 				"comment_score_type": 1,
 				"total_count": 3428,
-				"comment_score_title": "好评"
+				"comment_score_title": "好評"
 			}, {
 				"comment_score_type": 3,
 				"total_count": 180,
-				"comment_score_title": "差评"
+				"comment_score_title": "差評"
 			}
 		],
 		"comments": [
 			{
-				"user_name": "一洲风月",
+				"user_name": "許小姐",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "虽然配送师傅迟到了有一会儿，但是态度非常好，一直说对不起，都是打工的，我非常体谅配送师傅的心情！谢谢师傅～",
+				"comment": "雖然司機稍微晚到了一點，但是他的態度非常好，一直在說對不起，強調都是在工作。我非常體諒司機的心情！謝謝司機～",
 				"comment_type": 4,
 				"order_time": 1507964827,
 				"comment_time": 1507964827,
 				"order_comment_score": 5,
-				"praise_food_tip": "脆薯饼",
+				"praise_food_tip": "溫柔微笑戒指",
 				"critic_food_tip": "",
 				"poi_reply_contents": "",
 				"wm_comment_id": 1281862411,
@@ -56,7 +56,7 @@
 				"order_detail": null,
 				"praise_food_list": [
 					{
-						"name": "脆薯饼",
+						"name": "溫柔微笑戒指",
 						"schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=216588956&wmpoiid=495579&sputag=&activitytag=&sku_id=235150236"
 					}
 				],
@@ -78,7 +78,7 @@
 				"user_name": "ejX309524666",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "#奶油坚果酱中套餐#不好吃。还是奥尔良，麦辣鸡腿那些最经典的汉堡好吃。薯条软得不能再软了。我备注了可乐换芬达也没有换。#麦辣鸡翅2块#就还好，里面的肉挺嫩的，很入味。",
+				"comment": "這條項鍊真的很清新！每一顆藍色寶石都散發著海洋的光芒，讓我感受到無盡的寧靜和清新，非常喜歡！",
 				"comment_type": 4,
 				"order_time": 1504161290,
 				"comment_time": 1504161290,
@@ -111,12 +111,12 @@
 				"praise_food_list": [],
 				"comment_scheme": [
 					{
-						"keyword": "麦辣鸡翅2块",
+						"keyword": "藍海之心項鍊",
 						"spu_id": 96985579,
 						"sku_id": 102106880,
 						"scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985579&wmpoiid=495579&sputag=&activitytag=&sku_id=102106880"
 					}, {
-						"keyword": "奶油坚果酱中套餐",
+						"keyword": "璀璨水晶耳環",
 						"spu_id": 272461108,
 						"sku_id": 297102924,
 						"scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=272461108&wmpoiid=495579&sputag=&activitytag=&sku_id=297102924"
@@ -139,7 +139,7 @@
 				"user_name": "匿名用户",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "好吃#霆锋酷辣鸡腿堡大薯套餐#",
+				"comment": "這條手環真的太美了！每次戴上它，都讓我感覺到陽光和花香，讓我心情愉悅。",
 				"comment_type": 4,
 				"order_time": 1507814453,
 				"comment_time": 1507814453,
@@ -172,12 +172,12 @@
 				"praise_food_list": [],
 				"comment_scheme": [
 					{
-						"keyword": "霆锋酷辣鸡腿堡大薯套餐",
+						"keyword": "花漾時光手環",
 						"spu_id": 438902255,
 						"sku_id": 479330905,
 						"scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=438902255&wmpoiid=495579&sputag=&activitytag=&sku_id=479330905"
 					}, {
-						"keyword": "经典麦辣鸡腿汉堡",
+						"keyword": "櫻花之戀",
 						"spu_id": 96985052,
 						"sku_id": 102106347,
 						"scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985052&wmpoiid=495579&sputag=&activitytag=&sku_id=102106347"
@@ -200,13 +200,13 @@
 				"user_name": "GDq177157764",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": " 鸡翅感觉味道不是很好，包装薯条可以用小袋子装好。有点散落",
+				"comment": "這條手鍊真的太美了！每一個鏈節都散發著神秘的光芒，讓我感受到無盡的浪漫和夢想，非常喜歡！",
 				"comment_type": 4,
 				"order_time": 1506612877,
 				"comment_time": 1506612877,
 				"order_comment_score": 5,
-				"praise_food_tip": "经典麦辣鸡腿汉堡中薯套餐,麦辣鸡翅4块,可口可乐（大杯）",
-				"critic_food_tip": "蜜汁柠檬风味那么大鸡翅",
+				"praise_food_tip": "夢幻之鏈手鍊,月影項鍊",
+				"critic_food_tip": "",
 				"poi_reply_contents": "",
 				"wm_comment_id": 1244281909,
 				"user_id": 446602414,
@@ -232,24 +232,21 @@
 				"order_detail": null,
 				"praise_food_list": [
 					{
-						"name": "经典麦辣鸡腿汉堡中薯套餐",
+						"name": "夢幻之鏈手鍊",
 						"schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=151783280&wmpoiid=495579&sputag=&activitytag=&sku_id=162401545"
 					}, {
-						"name": "麦辣鸡翅4块",
+						"name": "月影項鍊",
 						"schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985585&wmpoiid=495579&sputag=&activitytag=&sku_id=102106877"
-					}, {
-						"name": "可口可乐（大杯）",
-						"schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985058&wmpoiid=495579&sputag=&activitytag=&sku_id=102106353"
 					}
 				],
 				"comment_scheme": [
 					{
-						"keyword": "蜜汁柠檬风味那么大鸡翅",
+						"keyword": "紫晶之夜項鍊",
 						"spu_id": 384709076,
 						"sku_id": 420499566,
 						"scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=384709076&wmpoiid=495579&sputag=&activitytag=&sku_id=420499566"
 					}, {
-						"keyword": "麦辣鸡翅4块",
+						"keyword": "月影項鍊",
 						"spu_id": 96985585,
 						"sku_id": 102106877,
 						"scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985585&wmpoiid=495579&sputag=&activitytag=&sku_id=102106877"
@@ -272,7 +269,7 @@
 				"user_name": "匿名用户",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "很不错👍#经典麦辣鸡腿汉堡大薯套餐##经典麦辣鸡腿汉堡大薯套餐#",
+				"comment": "這條手鍊真的很奢華！💎每一顆寶石都閃閃發光，讓我感受到無盡的奢華和璀璨，戴上它後，整個人都充滿了自信和魅力，真的太棒了！💖",
 				"comment_type": 4,
 				"order_time": 1507959265,
 				"comment_time": 1507959265,
@@ -305,7 +302,7 @@
 				"praise_food_list": [],
 				"comment_scheme": [
 					{
-						"keyword": "经典麦辣鸡腿汉堡大薯套餐",
+						"keyword": "寶石之慾手鍊",
 						"spu_id": 151784005,
 						"sku_id": 162399835,
 						"scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=151784005&wmpoiid=495579&sputag=&activitytag=&sku_id=162399835"
@@ -328,7 +325,7 @@
 				"user_name": "匿名用户",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "香芋派的盒子装着菠萝派",
+				"comment": "這款短夾的小貓造型太可愛了！粉色的顏色也很柔和，給人一種溫馨的感覺，真的太喜歡了！",
 				"comment_type": 4,
 				"order_time": 1507477547,
 				"comment_time": 1507477547,
@@ -366,7 +363,7 @@
 				"praise_food_list": [],
 				"comment_scheme": [
 					{
-						"keyword": "香芋派",
+						"keyword": "粉色小貓短夾",
 						"spu_id": 96985588,
 						"sku_id": 102106881,
 						"scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985588&wmpoiid=495579&sputag=&activitytag=&sku_id=102106881"
@@ -389,7 +386,7 @@
 				"user_name": "Lauhiukwan",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "为什么你们麦当劳每次送餐都迟到那么久 ！催单都没用",
+				"comment": "這款短夾的蝴蝶結裝飾真的很精緻！顏色也很溫和，給人一種甜美的感覺，收到後真的很開心！",
 				"comment_type": 4,
 				"order_time": 1508059708,
 				"comment_time": 1508059708,
@@ -438,12 +435,12 @@
 				"user_name": "Ggj331055125",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "薯条有点软了还有点咸",
+				"comment": "這條手鍊真的很有意義！它的設計獨特，每一個環節都散發著溫馨和珍貴的情感，讓我感受到無盡的愛意和溫暖。",
 				"comment_type": 4,
 				"order_time": 1507891549,
 				"comment_time": 1507891549,
 				"order_comment_score": 4,
-				"praise_food_tip": "霆锋酷辣鸡腿堡配中薯套餐,麦旋风奥利奥原味（鸳鸯奶茶味）",
+				"praise_food_tip": "靈魂之結手鍊,皮質細紋長夾",
 				"critic_food_tip": "",
 				"poi_reply_contents": "",
 				"wm_comment_id": 1279818164,
@@ -470,10 +467,10 @@
 				"order_detail": null,
 				"praise_food_list": [
 					{
-						"name": "霆锋酷辣鸡腿堡配中薯套餐",
+						"name": "靈魂之結手鍊",
 						"schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=438905783&wmpoiid=495579&sputag=&activitytag=&sku_id=479337665"
 					}, {
-						"name": "麦旋风奥利奥原味（鸳鸯奶茶味）",
+						"name": "皮質細紋長夾",
 						"schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=438863568&wmpoiid=495579&sputag=&activitytag=&sku_id=479294637"
 					}
 				],
@@ -495,7 +492,7 @@
 				"user_name": "liaokun0",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "好吃不腻，还不错。",
+				"comment": "手鍊的設計很精緻，戴上它後，整個人都充滿了安詳和舒適的感覺，讓我感受到無盡的美好和幸福。",
 				"comment_type": 4,
 				"order_time": 1507802404,
 				"comment_time": 1507802404,
@@ -544,7 +541,7 @@
 				"user_name": "WfU359676754",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "骑手很给力，不错",
+				"comment": "手鍊的設計很特別，戴上它後，整個人都充滿了活力和希望，讓我感受到美好的未來就在眼前！",
 				"comment_type": 4,
 				"order_time": 1507598928,
 				"comment_time": 1507598928,
@@ -593,12 +590,12 @@
 				"user_name": "EFR962754963",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "还行，下雨天也就很感谢了",
+				"comment": "這次的包裝真是令人驚艷！每一個細節都被精心打理，從外觀到內裡，每一個角落都展現出高品質的工藝。精美的絲帶、華麗的卡片，讓我感受到了無限的驚喜與喜悅。拆開包裝的那一刻，彷彿打開了一個心思細膩的禮盒，讓我不僅感受到了商品的價值，更感受到了賣家的用心和尊重。真的非常感謝！",
 				"comment_type": 4,
 				"order_time": 1476954618,
 				"comment_time": 1476954618,
 				"order_comment_score": 5,
-				"praise_food_tip": "经典麦辣鸡腿汉堡,麦乐鸡5块",
+				"praise_food_tip": "森林精靈手鍊,純潔之星耳環",
 				"critic_food_tip": "",
 				"poi_reply_contents": "",
 				"wm_comment_id": 541145885,
@@ -625,10 +622,10 @@
 				"order_detail": null,
 				"praise_food_list": [
 					{
-						"name": "经典麦辣鸡腿汉堡",
+						"name": "森林精靈手鍊",
 						"schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985052&wmpoiid=495579&sputag=&activitytag=&sku_id=102106347"
 					}, {
-						"name": "麦乐鸡5块",
+						"name": "純潔之星耳環",
 						"schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985580&wmpoiid=495579&sputag=&activitytag=&sku_id=102106872"
 					}
 				],
@@ -650,7 +647,7 @@
 				"user_name": "XVw495912307",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "吸管也不拿，怎么喝？送餐态度也不好",
+				"comment": "這家店的服務真是讓人失望！我提前跟你們溝通了到貨時間，結果你們居然說沒辦法提早！這樣的服務態度實在是太差了，根本沒有把客人的時間放在心上！下次我可不會再來了！",
 				"comment_type": 4,
 				"order_time": 1476966260,
 				"comment_time": 1476966260,
@@ -699,12 +696,12 @@
 				"user_name": "aVh453271553",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "三更半夜 风雨交加 辛苦了",
+				"comment": "雖然有些人對這家店的服務不滿意，但我個人非常支持這個店家！我已經多次在這裡購物，每次都得到了優質的商品和周到的服務。我相信他們一定會改進，希望大家給他們多一點時間和機會。我會繼續支持這家店，因為我相信他們的產品和服務品質！",
 				"comment_type": 4,
 				"order_time": 1476726413,
 				"comment_time": 1476726413,
 				"order_comment_score": 5,
-				"praise_food_tip": "麦辣鸡翅4块,零度可口可乐（小杯）,经典麦辣鸡腿汉堡",
+				"praise_food_tip": "夢幻水晶髮夾,花漾時光手環",
 				"critic_food_tip": "",
 				"poi_reply_contents": "",
 				"wm_comment_id": 537247789,
@@ -731,13 +728,10 @@
 				"order_detail": null,
 				"praise_food_list": [
 					{
-						"name": "麦辣鸡翅4块",
+						"name": "夢幻水晶髮夾",
 						"schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985585&wmpoiid=495579&sputag=&activitytag=&sku_id=102106877"
 					}, {
-						"name": "零度可口可乐（小杯）",
-						"schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985573&wmpoiid=495579&sputag=&activitytag=&sku_id=102106868"
-					}, {
-						"name": "经典麦辣鸡腿汉堡",
+						"name": "花漾時光手環",
 						"schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985052&wmpoiid=495579&sputag=&activitytag=&sku_id=102106347"
 					}
 				],
@@ -759,13 +753,13 @@
 				"user_name": "jTW196820955",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "薯条都是冷的，麦乐鸡相当难吃",
+				"comment": "櫻花之戀的產品品質很好，價格也相當合理，整體購物體驗還算不錯。",
 				"comment_type": 4,
 				"order_time": 1476433891,
 				"comment_time": 1476433891,
 				"order_comment_score": 3,
-				"praise_food_tip": "经典麦辣鸡腿汉堡",
-				"critic_food_tip": "麦辣鸡翅4块,薯条（大）,麦乐鸡5块",
+				"praise_food_tip": "櫻花之戀",
+				"critic_food_tip": "",
 				"poi_reply_contents": "",
 				"wm_comment_id": 531936399,
 				"user_id": 271882701,
@@ -791,18 +785,18 @@
 				"order_detail": null,
 				"praise_food_list": [
 					{
-						"name": "经典麦辣鸡腿汉堡",
+						"name": "櫻花之戀",
 						"schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985052&wmpoiid=495579&sputag=&activitytag=&sku_id=102106347"
 					}
 				],
 				"comment_scheme": [
 					{
-						"keyword": "麦乐鸡5块",
+						"keyword": "純潔之星耳環",
 						"spu_id": 96985580,
 						"sku_id": 102106872,
 						"scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985580&wmpoiid=495579&sputag=&activitytag=&sku_id=102106872"
 					}, {
-						"keyword": "薯条（大）",
+						"keyword": "心動鑽石耳環",
 						"spu_id": 96985584,
 						"sku_id": 102106878,
 						"scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985584&wmpoiid=495579&sputag=&activitytag=&sku_id=102106878"
@@ -825,7 +819,7 @@
 				"user_name": "kfW507727981",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "速度和服务不错，",
+				"comment": "這次購物經驗真是太棒了！快遞速度超快，我收到商品的時間比預期提早了一整天！而且快遞的服務態度也非常好，非常細心和有禮貌。感謝快遞的辛苦工作和專業態度！",
 				"comment_type": 4,
 				"order_time": 1476461157,
 				"comment_time": 1476461157,
@@ -874,7 +868,7 @@
 				"user_name": "qPm254992924",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "以前板烧鸡腿汉堡都有盒子，这次没有的！",
+				"comment": "我的晨曦之吻的盒子被壓傷了，這讓我有些失望。希望店家在包裝上能更加小心一些，確保商品能夠完好無損地送到顧客手中。",
 				"comment_type": 4,
 				"order_time": 1475391011,
 				"comment_time": 1475391011,
@@ -907,7 +901,7 @@
 				"praise_food_list": [],
 				"comment_scheme": [
 					{
-						"keyword": "原味板烧鸡腿堡大套餐",
+						"keyword": "晨曦之吻",
 						"spu_id": 110713509,
 						"sku_id": 117344682,
 						"scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=110713509&wmpoiid=495579&sputag=&activitytag=&sku_id=117344682"
@@ -930,7 +924,7 @@
 				"user_name": "rDJ901569961",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "我不知道是太忙还是怎样，一份大薯条就配了一般番茄酱，一杯饮料🍹连吸管也没放。。而且一个多小时才来。。。哎",
+				"comment": "我對心動鑽石耳環的包裝和快遞服務感到非常不滿意。包裝十分簡陋，甚至有些隨意潦草，完全不符合我對高品質產品的期待。而且快遞服務也很差，送貨速度慢，讓我感到相當無奈。希望店家能重視這些問題，提高服務品質，給客戶更好的購物體驗。",
 				"comment_type": 4,
 				"order_time": 1473563853,
 				"comment_time": 1473563853,
@@ -963,7 +957,7 @@
 				"praise_food_list": [],
 				"comment_scheme": [
 					{
-						"keyword": "薯条（大）",
+						"keyword": "心動鑽石耳環",
 						"spu_id": 96985584,
 						"sku_id": 102106878,
 						"scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=96985584&wmpoiid=495579&sputag=&activitytag=&sku_id=102106878"
@@ -986,7 +980,7 @@
 				"user_name": "GPf593897695",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "每次要求要需要蒜蓉辣椒酱，每次都没有。",
+				"comment": "這次又沒有收到手寫卡片的小驚喜，讓我感到非常失望。我一直期待著能夠收到店家的貼心祝福，但是這次卻沒有如願以償。",
 				"comment_type": 4,
 				"order_time": 1475822779,
 				"comment_time": 1475822779,
@@ -1084,7 +1078,7 @@
 				"user_name": "h菜丸子",
 				"ship_score": 0,
 				"ship_time": 0,
-				"comment": "感觉……没有现场买的好吃",
+				"comment": "我覺得這個商品在現場看好像比較好看，但在家裡看卻顯得很普通。或許是因為光線或環境的不同，使得商品的外觀有所差異。希望店家能提供更多真實的商品照片，讓顧客能夠更準確地了解商品的外觀特點。",
 				"comment_type": 4,
 				"order_time": 1475670165,
 				"comment_time": 1475670165,
@@ -1134,32 +1128,32 @@
 		"labels": [
 			{
 				"label_id": 75,
-				"content": "味道赞",
+				"content": "優雅",
 				"label_count": 45,
 				"label_star": 5
 			}, {
 				"label_id": 39,
-				"content": "服务好",
+				"content": "服務好",
 				"label_count": 20,
 				"label_star": 5
 			}, {
 				"label_id": 34,
-				"content": "满意",
+				"content": "滿意",
 				"label_count": 11,
 				"label_star": 5
 			}, {
 				"label_id": 38,
-				"content": "少送错送",
+				"content": "快遞慢",
 				"label_count": 5,
 				"label_star": 0
 			}, {
 				"label_id": 62,
-				"content": "贵",
+				"content": "昂貴",
 				"label_count": 4,
 				"label_star": 0
 			}, {
 				"label_id": 80,
-				"content": "早餐",
+				"content": "戒指",
 				"label_count": 3,
 				"label_star": 5
 			}
@@ -1189,20 +1183,20 @@
 			}, {
 				"comment_score_type": 5,
 				"total_count": 50,
-				"comment_score_title": "有图"
+				"comment_score_title": "有圖"
 			}, {
 				"comment_score_type": 21,
 				"total_count": 51,
-				"comment_score_title": "点评(3.5分)"
+				"comment_score_title": "評論(3.5分)"
 			}
 		],
 		"comments_dp": {
 			"show": 1,
 			"wm_poi_id": 495579,
 			"dp_poi_id": 4587058,
-			"title": "大众点评",
+			"title": "顧客評價",
 			"comment_score": 3.5,
-			"total_count_desc": "51条到店评价",
+			"total_count_desc": "51則到店評價",
 			"comments": []
 		}
 	},
